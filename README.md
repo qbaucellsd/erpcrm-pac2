@@ -1,4 +1,3 @@
-# erpcrm-pac2
 # Projecte Web Creatio CRM
 
 Aquest projecte és una web informativa i comercial sobre Creatio CRM, un sistema ERP/CRM modular i automatitzat, amb exemples de funcionalitats, plans de pricing i un formulari de contacte. Està desenvolupat només amb HTML i CSS, buscant una experiència visual atractiva i responsiva per al client.
